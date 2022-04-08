@@ -1,0 +1,128 @@
+.container{
+    width: 60%;
+    height: 235vh;
+    margin-left: 22%;
+    border: 3px solid #000;
+}
+
+.navbar{
+    background-color: rgba(124, 98, 98, 0.603);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-bottom: 2px solid #000;
+}
+
+.navbar .radio p{
+    background-color: #fff;
+    width: 30px;
+    height: 20px;
+    text-align:end;
+    border-radius: 30px;
+}
+
+.nav2{
+    position: relative;
+    width: 100%;
+    height: 40px;
+    display: flex;
+    align-items: center;
+}
+
+.nav2 .right-text{
+    position: relative;
+    width: 100%;
+    height: 40px;
+}
+
+.nav2 .right-text p{
+    position: absolute;
+    left: 780px;
+}
+
+.ad{
+    width: 100%;
+    height: 60vh;
+}
+
+.ad img{
+    width: 100%;
+    height: 60vh;
+}
+
+.table{
+    width: 100%;
+    height: 80vh;
+}
+
+.table img{
+    width: 140px;
+}
+
+.box{
+    position: relative;
+    width: 200px;
+    height: 30px;
+    border: 1px solid #000;
+    display: flex;
+    align-items: center;
+}
+
+.box p{
+    position: absolute;
+    left: 100px;
+}
+
+.footer{
+    position: relative;
+    width: 100%;
+    height: 30px;
+    border-top: 3px solid #000;
+}
+
+.footer .text-left{
+    padding-left: 80px;
+}
+
+.footer .image{
+    /* position: absolute; */
+    top: 50px;
+}
+
+.footer .image h4{
+    position: absolute;
+    left: -50px;
+}
+
+.footer .image img{
+    float: right;
+    width: 120px;
+    height: 30px;
+  
+}
+
+.footer .right{
+  
+    left: 100px;
+    top: -5px;
+}
+
+.footer table{
+    /* position: absolute; */
+    /* right: 100px; */
+    /* top: 140px; */
+}
+
+.footer table .td1{
+    /* position: absolute; */
+    float: left;
+  
+}
+
+.footer table .td2{
+    /* position: absolute; */
+   float: left;
+   
+}
+
+

@@ -1,0 +1,27 @@
+.box{
+            
+    width: 600px;
+    height: 250px;    
+}
+img{
+width: 30px;
+height: 20px;
+
+}
+table, th, td {  
+
+border: solid 1px;
+border-collapse: collapse;
+}
+input{
+margin-top: 4px;
+width: 140px;
+float: right;
+border: solid 2px;
+padding: 4px;
+margin-left: 5px;
+
+}
+input:hover{
+background-color: azure;
+}
